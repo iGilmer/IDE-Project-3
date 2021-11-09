@@ -8,7 +8,6 @@ public class Project3Driver
     {
         Project3Member member1 = new Project3Member();
 
-
         for ( int i = 0 ; i < memberCount ; i++ )
         {
             System.out.println("Enter a member's name:");
